@@ -49,9 +49,9 @@ function App() {
         <Card.Text>
         Este método es obligatorio en cualquier componente, pues como su nombre lo indica, se utiliza para obtener los elementos finales a visualizar y renderizar en el navegador.
          Debe ser una funcion pura, es decir, no debe modificar las props, no debe modificar el state, ni realizar operaciones en el DOM
-         <div class="botonreact">
-    <button class="newbutton" href="">Github</button>
-    </div>
+         <a href="https://github.com/GooseCampagne/mipagina">
+    <button>Github</button>
+    </a>
         </Card.Text>
       </Card.Body>
     </motion.Card>
